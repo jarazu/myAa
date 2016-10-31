@@ -1,17 +1,17 @@
 [
 {
-        "name": "Bill Gates",
+        "name": "Mir Arafat",
         "image": "https://github.com/jarazu/myAa/blob/master/arafat.jpg?raw=true",
-        "worth": "$79.2 billion",
+        "worth": "Medicine",
         "InYear": 2015,
-        "source": "Microsoft"
+        "source": "Apolo"
     },
     {
-        "name": "Carlos Slim",
-        "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Carlos_Slim_Helu.jpg",
-        "worth": "$77.1 billion",
+        "name": "Hafizur Rahaman",
+        "image": "https://github.com/jarazu/myAa/blob/master/hafij.jpg?raw=true",
+        "worth": "Neuro Serjon",
         "InYear": 2015,
-        "source": "Telmex, Grupo Carso"
+        "source": "Medinova"
     },
     {
         "name": "Warren Buffett",
