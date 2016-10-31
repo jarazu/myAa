@@ -1,7 +1,7 @@
 [
 {
         "name": "Bill Gates",
-        "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Bill_Gates.jpg",
+        "image": "https://github.com/jarazu/myAa/blob/master/arafat.jpg?raw=true",
         "worth": "$79.2 billion",
         "InYear": 2015,
         "source": "Microsoft"
@@ -74,14 +74,14 @@
                 "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/CarlosSlimfamily.jpg",
                 "worth": "$79.2 billion",
                 "InYear": 2014,
-                "source": "Telmex, América Móvil, Grupo Carso"
+                "source": "Telmex, AmÃ©rica MÃ³vil, Grupo Carso"
     },
     {
        "name": "Bernard Arnault",
                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Bernard_Arnault.jpg",
                "worth": "$29.0 billion",
                "InYear": 2013,
-               "source": "LVMH Moët Hennessy • Louis Vuitton"
+               "source": "LVMH MoÃ«t Hennessy â€¢ Louis Vuitton"
     },
     {
         "name": "Prince Al-Waleed",
